@@ -4,6 +4,6 @@ AI infrastructure: serving large language models on GPUs.
 Now building [Chapter and Verse](https://github.com/TsSerV/chapter-and-verse), question
 answering for UK legislation that cites its sources.
 
-Python, Kubernetes, Helm, vLLM, Terraform, AWS (EKS), GitHub Actions, Prometheus, Grafana.
+Python, Kubernetes, Helm, vLLM, Terraform, AWS (EKS), GitHub Actions, Prometheus, Grafana, Kserve, MLflow
 
 [LinkedIn](https://www.linkedin.com/in/stsykunov)
